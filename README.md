@@ -16,7 +16,7 @@
 #### **EXPERIENCE**  
 **Synology; Bellevue, WA; August 2016-Present**  
 _Marketing Specialist_  
-#####   
+#####  
 * Manage global social media platforms, including Facebook, Twitter and Instagram
 * Plan and run digital advertising campaigns, A/B testing to optimize performance
 * Maintain relationship with media contacts and influencers to secure content on multiple platforms
