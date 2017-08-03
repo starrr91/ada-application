@@ -4,7 +4,7 @@
 * Michigan State University; MA; Public Relations  
 * Dalian Nationalities University; BA; Journalism  
 
-#### **SUMMARY OF QUALIFICATIONS**     
+#### **SUMMARY OF QUALIFICATIONS**  
 * Digital Marketing  
 * Media Relations  
 * Integrated Marketing Communication  
