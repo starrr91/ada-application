@@ -16,17 +16,19 @@
 #### **EXPERIENCE**  
 **Synology; Bellevue, WA; August 2016-Present**  
 _Marketing Specialist_  
-##### 
+#####   
 * Manage global social media platforms, including Facebook, Twitter and Instagram
 * Plan and run digital advertising campaigns, A/B testing to optimize performance
+* Maintain relationship with media contacts and influencers to secure content on multiple platforms
+* Help design and update campaign landing page and event marketing page
+* Work with outside vendors and inhouse designers on tradeshow planning
 
-Synology | Bellevue, WA | August 2016—Present 
-PR/Marketing Specialist
-• Manage global social media platforms, including Facebook, Twitter and Instagram
-• A/B testing for digital advertising campaigns, optimize effectiveness based on real time data
-• Maintain relationships with media and influencers to place content on paid, owned and earned platforms
-• Help design and update campaign landing page and event page
-• Work with outside vendors and inhouse designers on tradeshow planning
+**Weber Shandwick; San Francisco, CA; December 2015-May 2016**  
+_PR Intern_  
+#####  
+* Media relations and media monitoring; develop speaking metrics for C-suite clients  
+* Craft tweets/LinkedIn posts, engage influencers per- and during clients' CES&HIMSS exhibition  
+
 
 Weber Shandwick | San Francisco, CA | December 2015—May 2016 | 6 months
 PR Intern [Clients: Qualcomm Life; Genentech; Gilead; Luxe; Bitdefender; Seagate]
