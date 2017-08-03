@@ -1,9 +1,15 @@
 # Lanxing (Lori) Li  
-### Issaquah, WA | 2066696488 | starrr91@gmail.com
 
-#### **EDUCATION**  
+#### _**EDUCATION**_  
 * Michigan State University; MA; Public Relations  
 * Dalian Nationalities University; BA; Journalism  
 
-#### **QUALIFICATION**   
+#### _**SUMMARY OF QUALIFICATIONS**_   
+* Digital Marketing  
+* Media Relations  
+* Integrated Marketing Communication  
+* Social Media Marketing  
+* Marketing Analysis  
+* HTML, CSS, SQL  
+* Event Marketing
 
