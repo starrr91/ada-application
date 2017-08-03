@@ -3,7 +3,8 @@
 
 #### **EDUCATION**   
 ##### * Michigan State University; MA; Public Relations  
+
 ##### * Dalian Nationalities University; BA; Journalism  
 
-
+#### **QUALIFICATION**   
 
