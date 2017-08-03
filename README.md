@@ -1,10 +1,10 @@
 # Lanxing (Lori) Li  
 
-#### _**EDUCATION**_  
+#### **EDUCATION**  
 * Michigan State University; MA; Public Relations  
 * Dalian Nationalities University; BA; Journalism  
 
-#### _**SUMMARY OF QUALIFICATIONS**_     
+#### **SUMMARY OF QUALIFICATIONS**     
 * Digital Marketing  
 * Media Relations  
 * Integrated Marketing Communication  
@@ -13,10 +13,12 @@
 * HTML, CSS, SQL  
 * Event Marketing
 
-#### _**EXPERIENCE**_  
+#### **EXPERIENCE**  
 **Synology; Bellevue, WA; August 2016-Present**  
 _Marketing Specialist_  
-##### * Manage global social media platforms, including Facebook, Twitter and Instagram
+##### 
+* Manage global social media platforms, including Facebook, Twitter and Instagram
+* Plan and run digital advertising campaigns, A/B testing to optimize performance
 
 Synology | Bellevue, WA | August 2016—Present 
 PR/Marketing Specialist
